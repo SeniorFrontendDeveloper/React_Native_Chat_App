@@ -9,7 +9,7 @@
   "dependencies": {
     "firebase": "^5.8.6",
     "react": "16.6.3",
-    "react-native": "0.58.6",
+    "react-native": "0.70.2",
     "react-native-gesture-handler": "^1.1.0",
     "react-native-i18n": "^2.0.15",
     "react-native-popup-menu": "^0.15.6",
